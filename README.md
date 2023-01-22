@@ -1,4 +1,6 @@
-# Rockbuster-Stealth
+# Rockbuster-Stealth Data Analysis
+
+This project was conducted using SQL and Tableau for Career Foundry Data Analytics Program.
 
 
 # Key Questions and Objectives
